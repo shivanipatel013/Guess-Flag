@@ -64,6 +64,9 @@ It helps improve geographical knowledge while demonstrating frontend development
 **Shivani Patel**  
 Computer Science Engineering Student  
 
+- 🔗 LinkedIn: https://www.linkedin.com/in/shivani-patel-b20330299  
+- 📧 Email: shibupatel013@gmail.com  
+
 ---
 
 ⭐ If you like this project, please give it a star!
